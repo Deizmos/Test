@@ -1,0 +1,23 @@
+.registration-container {
+    width: 500px;
+    height: 500px;
+    background-color: #8bd3dd;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+.registration-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.registration-form-input {
+    width: 240px;
+    height: 26px;
+    margin-bottom: 10px;
+}
